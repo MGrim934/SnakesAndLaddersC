@@ -1,7 +1,7 @@
 # SnakesAndLaddersC
 I created Snakes and Ladders in C as a college project.
-Markup : 
-* What does this include?
+
+What does this include?
 * Random Snake and Ladder Placement.
 * Checks to ensure that the rules of the game aren't compromised (such as a ladder climbing to a snake).
 * Multiple saving options.
